@@ -6,6 +6,8 @@
 -   📫 How to reach n connect wimme: [Linkedln](https://www.linkedin.com/in/kevinarnandes/)
 -   😄 Pronouns: he
 -   ⚡ Fun fact: anime enthusiasm
+-   📔 Personal Website: [Click](https://vinar.my.id/)
+-   📝 Blogs: [Medium](https://medium.com/@kevinarnandes)
 
 ### Hacktoberfest 2023
 
